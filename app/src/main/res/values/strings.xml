@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DialogFT</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="names">
+        <item>ahmed</item>
+        <item>Yousef</item>
+        <item>3azez</item>
+        <item>nor</item>
+    </string-array>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
